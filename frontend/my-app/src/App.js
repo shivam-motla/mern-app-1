@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
 <div className="App">
-hii, Shivam Motla .
+hii, Shivam Motla.
 <h1 class="display-1">Display 1</h1>
 <h1 class="display-2">Display 2</h1>
 <h1 class="display-3">Display 3</h1>

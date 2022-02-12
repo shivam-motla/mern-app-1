@@ -14,7 +14,7 @@ const fun2=(event)=>{
   return (
       <>
         <div class="form-floating">
-        <textarea class="form-control" placeholder="Leave a comment here" onChange={fun2} value={text_with_state} id="floatingTextarea"></textarea>
+        <textarea class="form-control" placeholder="Leave a  comment here" onChange={fun2} value={text_with_state} id="floatingTextarea"></textarea>
         <label for="floatingTextarea">Comments</label>
         </div>
         <div class="d-grid gap-2 d-md-block">
